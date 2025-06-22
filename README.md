@@ -8,7 +8,7 @@ A scientific article expanding on this research—developed in collaboration wit
 
 The full thesis documentation (in Spanish) can be found in the attached PDF.
 
-The final version of the scientific article (in English) will be available once it passes the journal’s final review process.
+The final version of the scientific article (in English) is available here *[PeerJ](https://peerj.com/articles/cs-2964/)*.
 
 ---
 
